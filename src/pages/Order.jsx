@@ -1,7 +1,6 @@
 import React, { useContext } from 'react'
 import { Shopcontext } from '../Context/Shopcontext'
 import Title from '../components/Title'
-import { div } from 'framer-motion/client'
 
 const Order = () => {
     const { products, currency } = useContext(Shopcontext)
