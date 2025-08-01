@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router'
 import Home from './pages/Home'
-import Collection from './pages/collection'
+import Collection from './pages/Collection'
 import About from './pages/About'
 import Contect from './pages/Contect'
 import Product from './pages/Product'
